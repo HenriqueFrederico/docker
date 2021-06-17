@@ -1,0 +1,6 @@
+com/example/docker/model/Pessoa.class
+com/example/docker/DockerApplication.class
+com/example/docker/queue/Config.class
+com/example/docker/queue/Send.class
+com/example/docker/controller/MessageRest.class
+com/example/docker/swagger/SwaggerConfig.class
